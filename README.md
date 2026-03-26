@@ -2,6 +2,11 @@
 
 This repository contains multiple projects. Below are the instructions to start each of them locally.
 
+## Pitch Presentation
+
+The pitch presentation for this project can be found here:
+[SchichtSalat-Pitch.pdf](./SchichtSalat-Pitch.pdf)
+
 ## Prerequisites
 
 Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
