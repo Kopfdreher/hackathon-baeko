@@ -5,7 +5,7 @@ This repository contains multiple projects. Below are the instructions to start 
 ## Pitch Presentation
 
 The pitch presentation for this project can be found here:
-[SchichtSalat-Pitch.pdf](./SchichtSalat-Pitch.pdf)
+[SchichtSalat-Pitch.pdf](./SchichtSalat.pdf)
 
 ## Prerequisites
 
