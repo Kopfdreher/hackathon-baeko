@@ -1,11 +1,8 @@
+![Thumbnail](./thumbnail.png)
+
 # Project Overview
 
 This repository contains multiple projects. Below are the instructions to start each of them locally.
-
-## Pitch Presentation
-
-The pitch presentation for this project can be found here:
-[SchichtSalat-Pitch.pdf](./SchichtSalat-Pitch.pdf)
 
 ## Prerequisites
 
@@ -96,3 +93,14 @@ A React + Vite application for employers.
 - All projects use `vite` for development.
 - Use `npm run build` to build the projects for production.
 - Use `npm run preview` to preview the production build locally.
+
+## Contributors
+
+- **Victor Lohde**
+  - GitHub: [l0hde](https://github.com/l0hde)
+  - Email: vlohde@hotmail.com
+
+- **Sergej Gavrilov**
+  - GitHub: [Kopfdeher](https://github.com/Kopfdeher)
+  - Email: sgavrilov@kopfdreher.de
+
