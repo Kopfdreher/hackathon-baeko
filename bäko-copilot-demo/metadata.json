@@ -1,0 +1,5 @@
+{
+  "name": "BÄKO Copilot Demo",
+  "description": "A multimodal AI assistant that converts messy real-world inputs into structured bakery orders.",
+  "requestFramePermissions": []
+}
